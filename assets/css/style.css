@@ -12,3 +12,7 @@ header {
     z-index: 1000; /* Asegura que el menú esté por encima de otros elementos */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra opcional */
 }
+
+.fork{
+    text-align: center;
+}
